@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/looney
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://astellarday.com
+  * I am looney (https://keybase.io/looney) on keybase.
+  * I have a public key ASA6HgV72uvd73puzqS9jomIYMO-kKh6rgwL761r6Hypfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012009b5d33831fa8d7d3744503dfe37d1d20b4f47c4b550d25fba81087ca640eeff0a",
+      "host": "keybase.io",
+      "kid": "01203a1e057bdaebddef7a6ecea4bd8e898860c3be90a87aae0c0befad6be87ca97e0a",
+      "uid": "dd83c7e1b0fa030f74a6213666e55b19",
+      "username": "looney"
+    },
+    "merkle_root": {
+      "ctime": 1548027277,
+      "hash": "757e27e43c734bf74d850f945225a26f75d63662e1c21e55eb75f618de3a00687de7b410334576a49470b4a675b41c91f34da8902d7a05ae794a6e0545d21aa4",
+      "hash_meta": "8ac088b21bf8d042f05b42037fa4f90509512c2b1a634d6a697139460cb0c47e",
+      "seqno": 4506776
+    },
+    "service": {
+      "entropy": "DGg+ucruMaDK3QNFlTrJYJx9",
+      "hostname": "astellarday.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1548027289,
+  "expire_in": 504576000,
+  "prev": "892a3f27efb2f0ca89459429c0ed45e2b373a89c869c2b14b03729ef4a6c0d8f",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOh4Fe9rr3e96bs6kvY6JiGDDvpCoeq4MC++ta+h8qX4Kp3BheWxvYWTESpcCH8QgiSo/J++y8MqJRZQpwO1F4rNzqJyGnCsUsDcp70psDY/EIFtkarf7Rbyuc5fjURnj8sNxkPCnZaTG7rsq+PITnwilAgHCo3NpZ8RA7bXSa9+Rd/8WwAizexDAY0WNHG5zMW1rDDBSZPkONLqmK1fMl/+HxhWhsySGKu8XEiUKNsDRP0bAXAtukr29BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDhhuVnxO/qZIlMSQ2ch3fFRHnx6rccrw8DqhXiicJTBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/looney
+
+==================================================================
