@@ -1090,7 +1090,7 @@ $('a[href*="#"]')
     });
     $(window).resize(function () {
         setTimeout(function () {
-            //blog_filter.find('.grid-item').removeClass('wow').removeClass('animated'); // avoid problem to filter after window resize
+            blog_filter.find('.grid-item').removeClass('wow').removeClass('animated'); // avoid problem to filter after window resize
             $blog_filter.isotope('layout');
         }, 300);
     });
@@ -1667,7 +1667,7 @@ $('a[href*="#"]')
         boxClass: 'wow',
         animateClass: 'animated',
         offset: 0,
-        mobile: false,
+        mobile: true,
         live: true
     });
     $(window).imagesLoaded(function () {
